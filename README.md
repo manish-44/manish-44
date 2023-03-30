@@ -3,7 +3,6 @@
 <p>
    
 <h1 align="center" >Hi, I'm Manish Meena<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<h3 align="center">I am too Learner</h3>
 <img align="right" alt="Coding" width="100%" height="300px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDEzYWJiMWM5ZjdmMDYwZWY5ZmE4NDY0ZDVkZmJhNjljYjlhNTQ1NyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-44&label=Profile%20views&color=0e75b6&style=flat" alt="manish-44" /> </p> -->
@@ -37,14 +36,8 @@
 ### Languages & Frameworks ✍🏼
 
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/><img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/35/000000/python.png"/><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/35/000000/python.png"/><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<br/>
 
 ### DevOps & Cloud Tools ⚒️
 
@@ -59,3 +52,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-44&show_icons=true&locale=en" alt="manish-44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-44&" alt="manish-44" /></p>
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/manish-44/count.svg" alt="" /></td>
+  </tr>
+</table>
